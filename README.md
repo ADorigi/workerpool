@@ -1,2 +1,2 @@
 # workerpool
-A basic worker pool in Go
+A basic worker pool framework in Go
